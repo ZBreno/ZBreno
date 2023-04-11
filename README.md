@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/breno-soares-b19a08195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ### 🛠️ Technologies e Tools I use:
+ ### 🛠️ Technologies and Tools I use:
 <div>
   <img align="center" alt="ZBreno-js" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
   <img align="center" alt="ZBreno-react" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/> 
