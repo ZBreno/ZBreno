@@ -1,10 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BE371&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BE371&size=32&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Breno+Soares;I'm+20+years+old;I+am+from+Tenente+Ananias,+Rio+Grande+do+Norte;I+study+analysis+and+systems+development+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ZBreno&show_icons=true&count_private=true&hide_border=true&title_color=6BE371&icon_color=6BE371&text_color=c9d1d9&bg_color=0d1117" alt="Breno Soares Fontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZBreno&layout=compact&hide_border=true&title_color=6BE371&text_color=6BE371&bg_color=0d1117" />
+  <div width="41%" align="right" style="margin:auto">
+    <a href="https://wakatime.com/@Zbreno">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d81bd7da-20de-4add-9d55-d9399b6d1f05&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+    </a>
+</div>
 </div>
 
 
