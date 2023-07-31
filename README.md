@@ -12,7 +12,7 @@ E aí, galera! Eu sou o Breno Soares e atualmente atuo como pesquisador mobile n
 
 🌐 **Experiência com Next.js:** Também tenho experiência em desenvolvimento com Next.js, que me permitiu criar aplicações web de alto desempenho e fácil escalabilidade.
 
-
+---
 
 <div align="center">
 
