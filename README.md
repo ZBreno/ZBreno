@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-E aí, galera! Eu sou o Breno Soares e atualmente atuo como pesquisador mobile no NADIC, uma jornada incrível onde me aprofundo no universo das tecnologias mobile!
+E aí, galera! Eu sou o Breno Soares e atualmente atuo como pesquisador mobile no [NADIC](https://nadic.ifrn.edu.br), uma jornada incrível onde me aprofundo no universo das tecnologias mobile!
 
 📚 **Educação:** Estou cursando o curso de Análise e Desenvolvimento de Sistemas, onde tenho a oportunidade de aprimorar minhas habilidades técnicas e adquirir conhecimentos fundamentais para criar aplicativos e sistemas eficientes.
 
