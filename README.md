@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ZBreno&show_icons=true&count_private=true&hide_border=true&title_color=6BE371&icon_color=6BE371&text_color=c9d1d9&bg_color=0d1117" alt="Breno Soares Fontes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzZzNeto&layout=compact&hide_border=true&title_color=6BE371&text_color=6BE371&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZBreno&layout=compact&hide_border=true&title_color=6BE371&text_color=6BE371&bg_color=0d1117" />
   </div>
 
   
