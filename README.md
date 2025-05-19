@@ -10,15 +10,11 @@
   
 ## Sobre mim
 
-E aí, galera! Eu sou o Breno Soares e atualmente atuo como pesquisador mobile no [NADIC](https://nadic.ifrn.edu.br), uma jornada incrível onde me aprofundo no universo das tecnologias mobile!
+E aí, galera! Eu sou o Breno Soares e atualmente sou desenvolvedor pleno fullstack na RMS Consultoria e Servicos LTDA.
 
-📚 **Educação:** Estou cursando o curso de Análise e Desenvolvimento de Sistemas, onde tenho a oportunidade de aprimorar minhas habilidades técnicas e adquirir conhecimentos fundamentais para criar aplicativos e sistemas eficientes.
+📚 **Educação:** Técnico em Informática e Graduado em Análise e Desenvolvimento de Sistemas.
 
-💡 **Experiência em Tecnologias:** Tenho experiência e manjo bem das seguintes tecnologias: Expo, React, JavaScript/TypeScript, Formik, React Hook Form, Tanstack/Query, Tailwind CSS, UI Kitten.
-
-⚙️ **Estudos em Backend:** Além do mobile, também dei uns pulos no desenvolvimento backend com Django, o que me trouxe uma compreensão mais completa da arquitetura e dos desafios de uma aplicação completa.
-
-🌐 **Experiência com Next.js:** Também tenho experiência em desenvolvimento com Next.js, que me permitiu criar aplicações web de alto desempenho e fácil escalabilidade.
+💡 **Experiência em Tecnologias:** Django, Expo, React Native, JavaScript/TypeScript.
 
 ---
 
