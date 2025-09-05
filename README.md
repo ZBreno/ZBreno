@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-E aí, galera! Eu sou o Breno Soares. Atualmente sou desenvolvedor pleno fullstack na RMS Consultoria e Servicos LTDA.
+E aí, galera! Eu sou o Breno Soares. Atualmente sou desenvolvedor mobile na SolarZ.
 
 📚 **Educação:** Técnico em Informática e Graduado em Análise e Desenvolvimento de Sistemas.
 
